@@ -1,2 +1,2 @@
 #!/bin/bash
-find -user usernumber -group groupnumber -la
+ls -l -n
